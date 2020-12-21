@@ -9,6 +9,10 @@ Camera flies to random positions, alwyas looking at center of 3D field.
 -
 Robert Fullum Dec 2020
 
+https://youtu.be/H-UNEz3ogJc
+
+
+
 - edit the FFT Resolution on line17 by updating the power of 2 in int fftResolution. 
   resolution is then calculated as pow(2, fftResolution)
   this prevents incorrect FFT resolution values.
